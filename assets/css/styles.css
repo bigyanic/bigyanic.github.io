@@ -235,7 +235,7 @@ img{
   bottom: 0;
   width: 295px;
 }
-/*Media query for reducing z-index and sending the behind text for different screen size*/
+/*Media query for reducing z-index and sending the image container behind text for different screen size*/
 @media(max-width:1200px) and (min-width:900px){
     .home__img{
         z-index:-1;
