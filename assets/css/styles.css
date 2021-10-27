@@ -15,32 +15,32 @@
 /*===== Fuente y tipografia =====*/
 :root{
   --body-font: 'Poppins', sans-serif;
-  --big-font-size: 2rem;
+  --big-font-size: 8rem;
   --h2-font-size: 1.26rem;
   --normal-font-size: 0.939rem;
 }
-@media screen and (min-width: 768px){
+@media screen and (min-width: 790px){
   :root{
     --big-font-size: 3.5rem;
-    --h2-font-size: 2rem;
-    --normal-font-size: 1.1rem;
+    --h2-font-size: 9rem;
+    --normal-font-size: 1.123rem;
   }
 }
 
 /*===== Margenes =====*/
 :root{
   --mb-1: 0.5rem;
-  --mb-2: 1rem;
+  --mb-2: 3rem;
   --mb-3: 1.5rem;
-  --mb-4: 2rem;
+  --mb-4: 1rem;
   --mb-5: 2.5rem;
-  --mb-6: 3rem;
+  --mb-6: 8rem;
 }
 
 /*===== z index =====*/
 :root{
-  --z-back: -10;
-  --z-normal: 1;
+  --z-back: -12;
+  --z-normal: 3;
   --z-tooltip: 10;
   --z-fixed: 100;
 }
