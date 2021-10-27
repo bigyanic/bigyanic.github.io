@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
 :root{
-  --header-height: 3rem;
-  --font-semi: 600;
+  --header-height: 3.1rem;
+  --font-semi: 601;
 }
 
 /*===== Colores =====*/
@@ -16,14 +16,14 @@
 :root{
   --body-font: 'Poppins', sans-serif;
   --big-font-size: 2rem;
-  --h2-font-size: 1.25rem;
-  --normal-font-size: 0.938rem;
+  --h2-font-size: 1.26rem;
+  --normal-font-size: 0.939rem;
 }
 @media screen and (min-width: 768px){
   :root{
     --big-font-size: 3.5rem;
     --h2-font-size: 2rem;
-    --normal-font-size: 1rem;
+    --normal-font-size: 1.1rem;
   }
 }
 
@@ -92,7 +92,7 @@ img{
   left: 0;
   right: 0;
   margin: auto;
-  top: 2rem;
+  top: 2.1rem;
   background-color: #1ca4df
 }
 .section{
