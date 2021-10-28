@@ -1,3 +1,3 @@
-# bigyanic.github.io
+# Bigyan Timilsina
 
-This is portfolio website of Bigyan Timilsina
+ [Proceed to my portfolio](https://bigyanic.github.io/)
