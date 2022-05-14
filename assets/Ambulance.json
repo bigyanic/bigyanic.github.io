@@ -1,0 +1,1464 @@
+[
+  {
+    "id": "168",
+    "name": "24x7 Ambulance Service",
+    "description": "Basundhara, Kathmandu",
+    "phone": "9840186344",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "247",
+    "hospital_name": "Chirayu National Hospital &  Medical Institute"
+  },
+  {
+    "id": "3",
+    "name": "Alka Hospital Ambulance",
+    "description": "Jawalakhel, Lalitpur",
+    "phone": "01-5970795",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "7",
+    "hospital_name": "Alka Hospital"
+  },
+  {
+    "id": "91",
+    "name": "Ambulance Lalitpur Municipality",
+    "description": "Pulchowk, Lalitpur",
+    "phone": "01-5527003 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "81",
+    "name": "Ambulance Service Bindabasini",
+    "description": "Bindabasini, Kaski",
+    "phone": "061-532855, 9860882041",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "82",
+    "name": "Ambulance Service NACoDS",
+    "description": "Lamachaur, Pokhara, Kaski",
+    "phone": "061441100, 9856031337",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "83",
+    "name": "Ambulance Service Ramghat",
+    "description": "Ramghat-11, Pokhara, Kaski",
+    "phone": "061521091",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "84",
+    "name": "Ambulance Service Siddhartha Club",
+    "description": "Siddhartha Chowk, Pokhara, Kaski",
+    "phone": "061530200/ 061521433",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "79",
+    "name": "Amda Hospital Ambulance Service",
+    "description": "Damak, Jhapa",
+    "phone": "023-580989",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "150",
+    "name": "Arba Ambulance",
+    "description": "Kaski",
+    "phone": "9856037658",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "129",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa ",
+    "phone": "9843714977",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "130",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa",
+    "phone": "9842721422",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "131",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa",
+    "phone": "9806073378",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "132",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa",
+    "phone": "9816736897",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "133",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa",
+    "phone": "9842731466",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "134",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa",
+    "phone": "9804910985",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "135",
+    "name": "B AND C MEDICAL COLLAGE TEACHING HOSPITAL AND RESEARCH CENTER",
+    "description": "Jhapa",
+    "phone": "9842773177",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "52",
+    "name": "B. P. KOIRALA MEMOROIAL CANCER HOSPITAL",
+    "description": "Chitwan",
+    "phone": " 56- 524501",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "132",
+    "hospital_name": "B.P. Koirala Memorial Cancer Hospital  (BPKMCH)"
+  },
+  {
+    "id": "128",
+    "name": "B. P. SMRITI HOSPITAL ",
+    "description": "Basundhara, Kathmandu, Nepal   ",
+    "phone": "9841447710",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "258",
+    "hospital_name": "B.P Smriti Hospital"
+  },
+  {
+    "id": "138",
+    "name": "B.P. Koirala Institute of Health Science",
+    "description": "Chitwan",
+    "phone": "9845052350",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "266",
+    "hospital_name": "B.P. Koirala Institute of Health Science"
+  },
+  {
+    "id": "139",
+    "name": "B.P. Koirala Institute of Health Science",
+    "description": "Chitwan",
+    "phone": "9845050113",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "266",
+    "hospital_name": "B.P. Koirala Institute of Health Science"
+  },
+  {
+    "id": "69",
+    "name": "Bahundangi Service Society Ambulance Service",
+    "description": "Bahundangi, Jhapa",
+    "phone": "9742646722",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "122",
+    "name": "Balram Karki",
+    "description": "Kathamandu",
+    "phone": "9843274865",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "157",
+    "name": "Bhagawati Samaj",
+    "description": "Jhapa",
+    "phone": "9804910985",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "156",
+    "name": "Bhakti Parsad smiriti Ambulance",
+    "description": "Jhapa",
+    "phone": "9814910410",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "30",
+    "name": "Bharosa Hospital",
+    "description": "Mid Baneswor, Kathmandu, Nepal",
+    "phone": "01-4450493",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "95",
+    "hospital_name": "Bharosa Hospital Pvt.Ltd"
+  },
+  {
+    "id": "160",
+    "name": "Bimal Thapa",
+    "description": "Kaski",
+    "phone": "9805844418",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "50",
+    "name": "Bir Hospital",
+    "description": "",
+    "phone": "9841182727",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "219",
+    "hospital_name": "Bir Hospital"
+  },
+  {
+    "id": "1",
+    "name": "Bishal Bazar Ambulance Sewa",
+    "description": "Bishalbazar, Kathmandu",
+    "phone": "01-4244121",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "6",
+    "name": "Blue Cross Hospital",
+    "description": "Tripureshwor",
+    "phone": "01-4262027, 01-4262027 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "85",
+    "hospital_name": "Blue Cross Hospital"
+  },
+  {
+    "id": "125",
+    "name": "Chemaber of Commerce ",
+    "description": "Kathamandu",
+    "phone": "01-4230213",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "146",
+    "name": "Chetansheel",
+    "description": "Morang",
+    "phone": "9842266231",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "32",
+    "name": "Chhetrapati Nisulka Chikitsalaya",
+    "description": "Chhetrapati, Kathmandu, Nepal",
+    "phone": "01-4257911",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "33",
+    "name": "Chimeki Maitri Samaj",
+    "description": "Jorpati, Kathmandu, Nepal",
+    "phone": "9841441275",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "136",
+    "name": "Chitwan Ambulance",
+    "description": "Chitwan",
+    "phone": "9845210197",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "147",
+    "name": "Chitwan Hospital Pvt.Ltd.",
+    "description": "Chitwan",
+    "phone": "9845591926",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "200",
+    "hospital_name": "Chitwan Hospital Pvt.Ltd"
+  },
+  {
+    "id": "14",
+    "name": "Civil Service Hospital",
+    "description": "New Baneshwor",
+    "phone": "01-4107000",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "21",
+    "hospital_name": "Civil Service Hospital"
+  },
+  {
+    "id": "34",
+    "name": "Civil Welfare Organization ",
+    "description": "Gongabu, Kathmandu ",
+    "phone": "01-4365128",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "35",
+    "name": "CIWEC Hospital",
+    "description": "Lazimpat, Kathmandu",
+    "phone": "01-4435232",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "31",
+    "name": "CIWIN Nepal",
+    "description": "Ravibhawan, Kathmandu, Nepal",
+    "phone": "01-4251614",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "96",
+    "name": "Dhanchanra Smirti Ambulance Sewa",
+    "description": "Surunga, Jhapa, ",
+    "phone": "023-551155, 984264610 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "98",
+    "name": "Dhankuta Hospital Ambulance",
+    "description": "Dhankuta",
+    "phone": "9842060752",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "102",
+    "name": "Dhankuta Red Cross( Ambulance)",
+    "description": "Dhankuta",
+    "phone": "026-520102",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "99",
+    "name": "Dhankuta, Jitpur Amulance",
+    "description": "Jitpur, Dhankuta",
+    "phone": "9862009552 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "66",
+    "name": "Dhulabadi Jesij Ambulance Service",
+    "description": "Dhulabadi, Jhapa",
+    "phone": "023-560322",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "36",
+    "name": "District Public Health Office ",
+    "description": "Teku, Kathmandu",
+    "phone": "01-4278612",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "60",
+    "name": "District Redcross,Bidur",
+    "description": "Nuwakot",
+    "phone": "98434333030,010-560070",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "48",
+    "name": "Dr. Iwamura Memorial Hospital",
+    "description": "Sallaghari, Bhaktapur",
+    "phone": "01-6612695, 01-6612705",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "20",
+    "hospital_name": "Dr. Iwamura Memorial Hospital & Research Center"
+  },
+  {
+    "id": "174",
+    "name": "Dr. Iwamura Memorial Hospital",
+    "description": "Sallaghari, Bhaktapur",
+    "phone": "9860025333",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "20",
+    "hospital_name": "Dr. Iwamura Memorial Hospital & Research Center"
+  },
+  {
+    "id": "78",
+    "name": "Eastern Nepal Cooperative Ambulance Service",
+    "description": "Kerkha, Jhapa",
+    "phone": "9852670073",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "51",
+    "name": "ERA HOSPITAL (P) LTD.",
+    "description": "Thamel, Kathmandu, Nepal",
+    "phone": "",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "53",
+    "name": "Everest Hospital",
+    "description": "Baneshwor-34, Kathmandu",
+    "phone": "01-4252922",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "246",
+    "hospital_name": "Everest Hospital"
+  },
+  {
+    "id": "37",
+    "name": "Everest Nursing Home",
+    "description": "New Baneswor, Kathmandu",
+    "phone": "01-4783024",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "124",
+    "name": "Gausala",
+    "description": "Kathamandu",
+    "phone": "9851087851",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "151",
+    "name": "Golden Hospital Pvt.Ltd.",
+    "description": "Morang",
+    "phone": "9816391881",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "298",
+    "hospital_name": "Golden Hospital Pvt.Ltd"
+  },
+  {
+    "id": "38",
+    "name": "Gorkha Hospital",
+    "description": "Chetrapati, Kathmandu",
+    "phone": "01-4258552",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "15",
+    "name": "Grande International Hospital",
+    "description": "Dhapashi",
+    "phone": "01-4381047, 01-595077",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "54",
+    "hospital_name": "Grande International Hospital"
+  },
+  {
+    "id": "9",
+    "name": "Green City Hospital",
+    "description": "Basundhara, Kathmandu, Nepal",
+    "phone": "01-4381133, 01-4383169, 01-4352248",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "6",
+    "hospital_name": "Greencity Hospital"
+  },
+  {
+    "id": "12",
+    "name": "HAMS Hospital",
+    "description": "Buddhanagar, Baneshwor",
+    "phone": "01-4786111",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "51",
+    "hospital_name": "Hams Hospital"
+  },
+  {
+    "id": "73",
+    "name": "Hanuman Mandir Ambulance Service",
+    "description": "Budhabare, Jhapa",
+    "phone": "023-555004",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "88",
+    "name": "Health Care Ambulance",
+    "description": "Nepalgunj, Banke",
+    "phone": "081525410",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "39",
+    "name": "Healthcare Foundation",
+    "description": "Naxal, Kathmandu",
+    "phone": "01-4429866",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "40",
+    "name": "Himali Sherpa Samaj",
+    "description": "Chuchepati, Kathmandu",
+    "phone": "01-4207552",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "46",
+    "name": "International Friendship Children's Hospital",
+    "description": "Maharajgunj, Kathmandu",
+    "phone": "01-4411134, 01-4416838",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "239",
+    "hospital_name": "Internattional Friendship  Childrens Hospital"
+  },
+  {
+    "id": "152",
+    "name": "Jay Budhha Hospital Pvt.Ltd.",
+    "description": "Chitwan",
+    "phone": "9845634150",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "201",
+    "hospital_name": "JAY BUDHHA HOSPITAL PVT. LTD."
+  },
+  {
+    "id": "161",
+    "name": "Jeet Bahadur Khadka",
+    "description": "Kaski",
+    "phone": "9846077946",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "74",
+    "name": "Jhapa Redcross Society Ambulance Service",
+    "description": "Bhadrapur, Jhapa",
+    "phone": "023-520102",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "72",
+    "name": "Kanchenjunga Hospital Ambulance Service",
+    "description": "Birtamod, Jhapa",
+    "phone": "023-541357",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "93",
+    "name": "Kantipur Ambulance ",
+    "description": "New Baneshwor, Kathmandu",
+    "phone": "01-4473488",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "169",
+    "name": "Kantipur Dental College Teaching Hospital & Research Center",
+    "description": "Dhapasi,Basundhara(Near Police Bit) Ringroad,Kathmandu Nepal",
+    "phone": "014385910,014385911",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "119",
+    "hospital_name": "Kantipur Dental College Teaching Hospital & Research Center "
+  },
+  {
+    "id": "16",
+    "name": "Kantipur Hospital",
+    "description": "Subidhanagar",
+    "phone": "01-4498757",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "141",
+    "hospital_name": "Kantipur Hospital"
+  },
+  {
+    "id": "17",
+    "name": "Kathmandu Dental Home",
+    "description": "Maharajgunj",
+    "phone": "01-4433697",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": null,
+    "hospital_name": null
+  },
+  {
+    "id": "10",
+    "name": "Kathmandu Medical & Teaching Hospital",
+    "description": "Sinamangal",
+    "phone": "01-4469064, 01-4476152",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "23",
+    "hospital_name": "Kathmandu Medical Collage & Teaching Hospital"
+  },
+  {
+    "id": "163",
+    "name": "Kedar Bhadur Simriti Sewa",
+    "description": "Dhading",
+    "phone": "9841898941, 9841639732",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "119",
+    "name": "Kedar Tamang",
+    "description": "Kathamandu",
+    "phone": "9808515924, 9851112497",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "94",
+    "name": "Kirtipur Ambulance",
+    "description": "Kirtipur, Kathmandu",
+    "phone": "01-4330200",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "85",
+    "name": "Kohalpur Bahu-Udyeshiya Sahakari Ambulance",
+    "description": "Kohalpur, Banke",
+    "phone": "081541700",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "92",
+    "name": "Lalitpur Redcross Ambulance Service",
+    "description": "Lalitpur",
+    "phone": "01-4260859",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "154",
+    "name": "Laxmi Ambulance",
+    "description": "Jhapa",
+    "phone": "9803639155",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "80",
+    "name": "Laxminarayan Mandir Ambulance Service",
+    "description": "Maidhar, Jhapa",
+    "phone": "023-550367",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "104",
+    "name": "LIFE GUARD HOSPITAL PVT. LTD",
+    "description": "Bargachhi, Biratnagar-6, Morang",
+    "phone": "9742042333, 021-463177",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "212",
+    "hospital_name": "Life Guard Hospital Pvt. Ltd"
+  },
+  {
+    "id": "145",
+    "name": "Life Guard Hospital Pvt.Ltd.",
+    "description": "Morang",
+    "phone": "9742042333",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "212",
+    "hospital_name": "Life Guard Hospital Pvt. Ltd"
+  },
+  {
+    "id": "105",
+    "name": "Life Line Hospital Ambulance",
+    "description": "Damak-10, Jhapa, Nepal",
+    "phone": "023-580636 ,023-580997",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "212",
+    "hospital_name": "Life Guard Hospital Pvt. Ltd"
+  },
+  {
+    "id": "144",
+    "name": "Lions Club",
+    "description": "Morang",
+    "phone": "021-537001",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "159",
+    "name": "Lions Club of Birtamode",
+    "description": "Jhapa",
+    "phone": "9864446377",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "24",
+    "name": "Lions Club of Kathmandu Central",
+    "description": "Kathmandu ",
+    "phone": "01-4472211 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "41",
+    "name": "Lions Eyecare Center ",
+    "description": "Minbhawan, Kathmandu",
+    "phone": "01-4472211",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "63",
+    "name": "Maan  Bahadhur smriti Pratisthan",
+    "description": "Nuwakot",
+    "phone": "9841681486",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "108",
+    "name": "Madwadi Sewa Samaj",
+    "description": "Kathamandu",
+    "phone": "9841488509",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "126",
+    "name": "Madwadi Sewa Samaj",
+    "description": "Kathamandu",
+    "phone": "01-4255740, 9841488509",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "67",
+    "name": "Mahetradwadar cooperative Ambulance Service",
+    "description": "Kakarvitta, Jhapa",
+    "phone": "023-562025",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "75",
+    "name": "Mainali Union Society Ambulance Service",
+    "description": "Surunga, Jhapa",
+    "phone": "023-551155",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "26",
+    "name": "Maiti Nepal Ambulance",
+    "description": "Gaushala, Kathmandu",
+    "phone": "01-4494816",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "113",
+    "name": "Man Khaji Shrestha ",
+    "description": "Kathamandu",
+    "phone": "9841425602",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "42",
+    "name": "Manmohan Community Hospital",
+    "description": "Pharping, Dakshinkali, Kathmandu ",
+    "phone": "01-4710033",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "18",
+    "name": "Manmohan Memorial Hospital",
+    "description": "Swayambhu",
+    "phone": "01-4411605",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "53",
+    "hospital_name": "Manmohan Memorial Medical Collage & Teaching Hospital"
+  },
+  {
+    "id": "29",
+    "name": "Marwadi Sewa Samiti",
+    "description": "New Road, Kathmandu, Nepal",
+    "phone": "01-4225540, 01-4225541",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "68",
+    "name": "Mechi Anchal Hospital,Ambulance Service",
+    "description": "Bhadrapur, Jhapa",
+    "phone": "023-520172",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "65",
+    "name": "Mechi Udyog Banijya Ambulance Service",
+    "description": "Dhulabari, Jhapa",
+    "phone": "023-560450",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "95",
+    "name": "Medicare National Hospital Ambulance",
+    "description": "Chabahil, Kathmandu",
+    "phone": "01-4467067 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "43",
+    "hospital_name": "Medicare National Hospital & Research Center Pvt.Ltd"
+  },
+  {
+    "id": "59",
+    "name": "Meri Stopes,Battar",
+    "description": "Nuwakot",
+    "phone": "9845103460",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "43",
+    "name": "Meridian Healthcare Center ",
+    "description": "Maharajgunj Chowk, Kathmandu",
+    "phone": "01-4720116",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "44",
+    "name": "Miteri Hospital",
+    "description": "Bagbazar, Kathmandu",
+    "phone": "01-4269555",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "27",
+    "name": "Model Ambulance",
+    "description": "Ramshah Path, Kathmandu, Nepal",
+    "phone": "01-4240805, 01-4240806",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "100",
+    "name": "Model Ambulance",
+    "description": "Ramshah Path, Kathmandu, Nepal",
+    "phone": "01-4240805, 01-4240806",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "148",
+    "name": "Model Hospital",
+    "description": "kaski",
+    "phone": "9846311804",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "170",
+    "name": "MORANG HOSPITAL PVT. LTD.",
+    "description": "Patharishanischare-1, Morang",
+    "phone": "021-555343, Mob. 9842043748",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "429",
+    "hospital_name": "Morang Hospital Pvt.Ltd"
+  },
+  {
+    "id": "49",
+    "name": "Nagarik Community Teaching Hospital Pvt.Ltd",
+    "description": "Gatthaghar-15, Bhaktapur, Nepal",
+    "phone": "01-6637780",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "81",
+    "hospital_name": "Nagarik Community Teaching Hospital Pvt.Ltd"
+  },
+  {
+    "id": "77",
+    "name": "Namuna Samaj Jhiljhile Ambulance Service",
+    "description": "Jhiljhile, Jhapa",
+    "phone": "023-470218",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "19",
+    "name": "National Insitute of Neurological Sciences ",
+    "description": "Bansbari",
+    "phone": "01-4373850",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "163",
+    "hospital_name": "National Institute of Neurological & Allied Science"
+  },
+  {
+    "id": "123",
+    "name": "Nawajiwan ",
+    "description": "Kathamandu",
+    "phone": "9851047279",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "54",
+    "name": "Nepal Ambulance Sewa",
+    "description": "Kathmandu",
+    "phone": "102, 01-4104595",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "45",
+    "name": "Nepal Cancer Hospital & Research Center, Pvt.Ltd",
+    "description": "Harisiddhi, Lalitpur",
+    "phone": "01-5251312 , 01-5251498",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "11",
+    "hospital_name": "Nepal Cancer Hospital & Research Center Pvt.Ltd"
+  },
+  {
+    "id": "23",
+    "name": "Nepal Chamber of Commerce",
+    "description": "Kathmandu",
+    "phone": " 01-4230213 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "25",
+    "name": "Nepal Red Cross Society",
+    "description": "Kathmandu",
+    "phone": "01-4228094 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "158",
+    "name": "Nepal Red Cross Society(ghauladuwa)",
+    "description": "Jhapa",
+    "phone": "9815980500",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "64",
+    "name": "Nepal Redcross Ambulance Service",
+    "description": "Mechinagar, Jhapa",
+    "phone": "023-561502",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "142",
+    "name": "Neuro",
+    "description": "Morang",
+    "phone": "9842069486",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "141",
+    "name": "Nirmad Behabasai Sangh",
+    "description": "Morang",
+    "phone": "9842152455",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "172",
+    "name": "NKFMH Ambulance",
+    "description": "",
+    "phone": "9841257048",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "400",
+    "hospital_name": "Nepal Korea Friendship Municipality Hospital"
+  },
+  {
+    "id": "13",
+    "name": "Norvic International Hospital",
+    "description": "Thapathali",
+    "phone": "01-4101600, 01-5970032",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "97",
+    "hospital_name": "Norvic International Hospital"
+  },
+  {
+    "id": "56",
+    "name": "Nuwakot Hospital ",
+    "description": " Nuwakot Trishuli",
+    "phone": "010-560640, 010-561131",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "58",
+    "name": "Nuwakot sewa samaj",
+    "description": "Nuwakot",
+    "phone": "9751032566",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "7",
+    "name": "Om Hospital",
+    "description": "Chabahil, Kathmandu, Nepal",
+    "phone": "01-4482484",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "4",
+    "hospital_name": "Om Hospital & Research Center Pvt.Ltd "
+  },
+  {
+    "id": "62",
+    "name": "Padmakumari Smriti Pratisthan",
+    "description": "Nuwakot",
+    "phone": "9855059500",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "153",
+    "name": "Panchakanya Ambulance",
+    "description": "Jhapa",
+    "phone": "9804984335",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "57",
+    "name": "Panchakanya Polyclinic, Battar",
+    "description": " Battar Nuwakot",
+    "phone": "010-560955",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "28",
+    "name": "Paropakar ",
+    "description": "Kathmandu",
+    "phone": "01-4260859",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "111",
+    "name": "Patan Red Cross ",
+    "description": "Kathamandu",
+    "phone": "5545666",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "162",
+    "name": "Prabhu Manab Sewa",
+    "description": "Kathmandu",
+    "phone": "9843272727, 9841674076",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "118",
+    "name": "Rai Samaj",
+    "description": "Kathamandu",
+    "phone": "9849288691",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "116",
+    "name": "Raj Kumar Moktan",
+    "description": "Kathamandu",
+    "phone": "9862256888",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "107",
+    "name": "Ramchandra Samaj Sewa",
+    "description": "Kathamandu",
+    "phone": "9851072320",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "127",
+    "name": "Ramesh Shrestha",
+    "description": "Kathamandu",
+    "phone": "9851072320",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "86",
+    "name": "Red Cross Ambulance",
+    "description": "Kohalpur, Banke",
+    "phone": "081541300",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "89",
+    "name": "Red Cross Ambulance",
+    "description": "Nepalgunj, Banke",
+    "phone": "081520104",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "97",
+    "name": "Red Cross Ambulance",
+    "description": "Illam",
+    "phone": "9842627333",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "90",
+    "name": "Redcross / Bhaktapur Ambulance",
+    "description": "Bhaktapur",
+    "phone": " 01-5545666",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "76",
+    "name": "Redcross Ambulance Service",
+    "description": "Surunga,jhapa",
+    "phone": "023-550100",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "87",
+    "name": "Reiyukai Ambulance \t ",
+    "description": "Kohalpur, Banke",
+    "phone": "081523361",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "167",
+    "name": "Sahid Memorial hospital ",
+    "description": "kalanki -14, kathmandu",
+    "phone": "014672921, 014672934,4284315,",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "55",
+    "hospital_name": "Sahid Memorial Hospital"
+  },
+  {
+    "id": "110",
+    "name": "Sai Hospital",
+    "description": "Kathamandu",
+    "phone": "01-4498035",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "109",
+    "name": "Sakriya Samaj",
+    "description": "Kathamandu",
+    "phone": "9841499812",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "120",
+    "name": "Sakriya Sewa Samaj",
+    "description": "Kathamandu",
+    "phone": "9851075042, 9849228125",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "61",
+    "name": "Samudayik Vikas Yojana",
+    "description": "Nuwakot",
+    "phone": "9841500252",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "143",
+    "name": "Sapta Koshi",
+    "description": "Morang",
+    "phone": "9842028796",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "140",
+    "name": "Sewa Hospital",
+    "description": "Kaski",
+    "phone": "061-528163",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "22",
+    "name": "Shiva Sakti Yuba Sewa",
+    "description": "Kathmandu",
+    "phone": "01- 4478111 ",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "112",
+    "name": "Shiva Shakti ",
+    "description": "Kathamandu",
+    "phone": "01-4478111, 9841325740",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "106",
+    "name": "Shree Narayan Chandra Smriti Sewa Samaj",
+    "description": "Pashuhat Damak, Jhapa",
+    "phone": "9814991133",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "171",
+    "name": "SIDDHABABA AMBULANCE ",
+    "description": "OM MARGHA BUTWAL ",
+    "phone": "017549201",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "473",
+    "hospital_name": "Siddha Baba Superspecility International Hospital and Research Center"
+  },
+  {
+    "id": "149",
+    "name": "Siddhartha Club",
+    "description": "Kaski",
+    "phone": "061-530200",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "173",
+    "name": "Siddhi Memorial Hospital ",
+    "description": "Bhimsensthan, bhaktapur-7",
+    "phone": "9741204991",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "369",
+    "hospital_name": "Siddhi Memorial Hospital"
+  },
+  {
+    "id": "4",
+    "name": "Siddhi Vinayak Hospital",
+    "description": "Gongabu Chowk, Kathmandu, Nepal",
+    "phone": "01-4384550",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "153",
+    "hospital_name": "Bulanda Siddhi Hospital & Trauma Center"
+  },
+  {
+    "id": "115",
+    "name": "Sitaram Thyunjung",
+    "description": "Kathamandu",
+    "phone": "9860025333",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "20",
+    "name": "Spark Health Home ",
+    "description": "Soalteemod",
+    "phone": "01-4270094",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "17",
+    "hospital_name": "Spark Health Home Hospital"
+  },
+  {
+    "id": "21",
+    "name": "Stupa Community Hospital",
+    "description": "Bouddha",
+    "phone": "01-4488372",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "107",
+    "hospital_name": "Stupa Community Hospital"
+  },
+  {
+    "id": "165",
+    "name": "Sumeru Ambulance",
+    "description": "Lalitpur",
+    "phone": "9841437660",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "28",
+    "hospital_name": "Sumeru Hospital"
+  },
+  {
+    "id": "166",
+    "name": "Sumeru Ambulance",
+    "description": "Lalitpur",
+    "phone": "9845713956",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "28",
+    "hospital_name": "Sumeru Hospital"
+  },
+  {
+    "id": "47",
+    "name": "Suvekchya International Hospital",
+    "description": "Sitapaila, Kathmandu ",
+    "phone": "01-4289534, 01-4289535, 9851143808",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "18",
+    "hospital_name": "Suvekchya International Hospital & Research Center"
+  },
+  {
+    "id": "164",
+    "name": "T.U. Teaching Hospital",
+    "description": "Maharajgunj",
+    "phone": "01-4412707, 01-4412505, 014412808",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "249",
+    "hospital_name": "T.U.Teaching Hospital"
+  },
+  {
+    "id": "114",
+    "name": "Tanka Bdr Bokati ",
+    "description": "Kathamandu",
+    "phone": "9751017707",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "70",
+    "name": "Tarapunj Cooperative Ambulance Service",
+    "description": "Charali, Jhapa",
+    "phone": "023-460558",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "121",
+    "name": "Thakali Sewa Samaj",
+    "description": "Kathamandu",
+    "phone": "9843560886",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "117",
+    "name": "Thalu Moktan",
+    "description": "Kathamandu",
+    "phone": "9842974625",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "101",
+    "name": "Thimi Ambulance",
+    "description": "Thimi, Bhaktapur",
+    "phone": "01-6631000",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "55",
+    "name": "Trishuli Hospital",
+    "description": "Nuwakot",
+    "phone": "010-560188",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "103",
+    "name": "Unique College of Medical Science & Hospital",
+    "description": "Raypur \u2013 9, Saptari, Nepal",
+    "phone": "+9779804728301",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance"
+  },
+  {
+    "id": "11",
+    "name": "Vayodha Hospital",
+    "description": "Balkhu Chowk",
+    "phone": "01-4281666, 01-2111333",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "48",
+    "hospital_name": "Vayodha Hospitals Pvt. Ltd."
+  },
+  {
+    "id": "5",
+    "name": "Vinayak Hospital",
+    "description": "Gongabu Chowk, Kathmandu, Nepal",
+    "phone": "01-4383152",
+    "image": "https://www.hamrodoctor.com/img/default_ambulance.png",
+    "model": "Ambulance",
+    "hospital_id": "154",
+    "hospital_name": "Vinayak Hospital and Maternity Home Pvt. Ltd."
+  }
+]
