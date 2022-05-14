@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Bheri Zonal Hospital",
+    "location": "Nepalgunj",
+    "phone": "081-520039",
+    "description": "Bheri Zonal Hospital is the major referral centre with specialties services for Mid-western and far western region of the country (NEPAL).",
+    "images": "BheriZonalHospital.jpg",
+    "website": "https://bherihospital.gov.np/"
+  },
+  {
+    "id": 2,
+    "name": "Lumbini Provincial Hospital",
+    "location": "Butwal",
+    "phone": "071-540200",
+    "description": "Lumbini Zonal Hospital is the biggest governmental hospital in Lumbini Zone Nepal. This hospital lies in Butwal city. It is one of the oldest hospital in this region and is backbone for the health service to poor citizens who cannot afford private hospitals.",
+    "images": "LumbiniProvincialHospital.jpg",
+    "website": "http://lzhospital.gov.np/"
+  },
+  {
+    "id": 3,
+    "name": "Nepal Cancer Hospital",
+    "location": "Lalitpur",
+    "phone": "01-5251311",
+    "description": "Nepal Cancer Hospital and Research Center (NCHRC) Pvt. Ltd. is the first ever effort from the private sector established to provide the highest quality of state-of-the-art treatment and excellent care to the patients and their families from all around the globe. The hospital will contribute to reduce the burden of cancer increase survival and improve the quality of life of the patients and families; thus emphasis has been given to preventive and palliative oncology.",
+    "images": "NepalCancerHospital.jpg",
+    "website": "http://nepalcancerhospital.com/"
+  },
+  {
+    "id": 4,
+    "name": "Bhaktapur Cancer Hospital",
+    "location": "Bhaktapur",
+    "phone": "01-6611531",
+    "description": "Bhaktapur Cancer Hospital is a cancer hospital located in Bhaktapur Bagmati Pradesh Nepal run by the Nepal Cancer Relief Society. The hospital is supported by the Nepalese Government and Rotary International.",
+    "images": "BhaktapurCancerHospital.jpg",
+    "website": "http://anmf.info/nepal/care/hospitals/bch.htm"
+  },
+  {
+    "id": 5,
+    "name": "Sushil Koirala Prakhar Cancer Hospital",
+    "location": "Banke District",
+    "phone": "977-81-690669",
+    "description": "Khajura is a historic place of the Banke district. The people of the Khajura and villages next to it are deprived of basic health facilities. Observing their needs Prakhar Paropakar Mission Nepal was registered in 2005 to provide the basic health service in the future. The Mission Nepal is non profitable non governmental organization whose aim is to work for humanity.",
+    "images": "SushilCancerHospital.jpg",
+    "website": "http://nepalcancerhospital.org/home"
+  },
+  {
+    "id": 6,
+    "name": "Civil Service Hospital of Nepal",
+    "location": "Kathmandu",
+    "phone": "01-4106999",
+    "description": "The need for such a hospital arose in view of the fact that Nepal Army and Nepal Police employees had hospitals dedicated to them while civil service employees of Nepal Government had none. Thus Nepal Government approached the Peoples Republic of China (PRC) with the request to help build Civil Service Hospital (CSH). An agreement to this effect was signed between the Government of Nepal and PRC . CSH is located at Minbhawan Kathmandu. CSH is an autonomous government institution under the Ministry of General Administration (MoGA).",
+    "images": "CivilHospital.jpg",
+    "website": "https://www.civilservicehospital.org/"
+  },
+  {
+    "id": 7,
+    "name": "Shukraraaj Tropical & Infectious Disease Hospital",
+    "location": "Kathmandu",
+    "phone": "01-4253396",
+    "description": "Infectious Disease Hospital (STIDH) is the only Infectious & Tropical Disease Hospital established in 1933 in Kathmandu Nepal. This is the national referral hospital with the capacity 100 beds inpatient service. It receives patients from all over the country and referred patients from the Valley hospitals. It provides training to Undergraduate and Postgraduate medical students . Students from different countries undergo training in Infectious and Tropical Diseases. Nepal is located in South Asia in between China and India. The country is one of the most famous destination for travel for its natural beauty and world famous Himalay's.",
+    "images": "TekuHospital.jpg",
+    "website": "http://www.stidh.gov.np/"
+  },
+  {
+    "id": 8,
+    "name": "Bir Hospital",
+    "location": "Kathmandu",
+    "phone": "01-4221119",
+    "description": "Bir Hospital is the oldest and one of the busiest hospitals in Nepal. It is located at the center of Kathmandu city. The hospital is run by the National Academy of Medical Sciences a government agency since 2003. The hospital provides medical and surgical treatments. It current has a capacity of 535 beds.",
+    "images": "BirHospital.jpg",
+    "website": "https://nams.org.np/index.php"
+  },
+  {
+    "id": 9,
+    "name": "Patan Academy of Health Science",
+    "location": "Lalitpur",
+    "phone": "01-5522295",
+    "description": "Patan Academy of Health Sciences is an autonomous not-for-profit public institution of higher education established in 2064 B.S. with the charter granted by the Parliament of Nepal.",
+    "images": "PatanHospital.jpg",
+    "website": "https://www.pahs.edu.np/"
+  },
+  {
+    "id": 10,
+    "name": "Gandaki Medical College Teaching Hospital & Research Centre",
+    "location": "Pokhara",
+    "phone": "061-538595",
+    "description": "Gandaki Medical College Teaching Hospital and Research Center (GMCTHRC) Pokhara was established in 2007 A.D with the aim of imparting quality medical education to the students from different parts of the world. Presently GMCTHRC is conducting MBBS BDS BSc. Nursing BNS BSc. MIT BSc. MLT BPH BPharmaProgram and also Post Graduate program in different departmentwith the affiliation of TU-Institute of Medicine (IOM).",
+    "images": "GMCTeachingHospital.jpg",
+    "website": "http://www.gmc.edu.np/"
+  },
+  {
+    "id": 11,
+    "name": "Nepal Eye Hospital",
+    "location": "Kathmandu",
+    "phone": "01-4260813",
+    "description": "Nepal eye hospital is the first hospital in Nepal dedicated to eye care service established in the year 1973. Before the establishment of this historical hospital eye service was available at Bir Hospital as government owned general hospital with the few beds provided by the Government of Nepal.",
+    "images": "NepalEyeHospital.jpg",
+    "website": "http://www.nepaleyehospital.org/"
+  },
+  {
+    "id": 12,
+    "name": "Tilganga Eye Hospital",
+    "location": "Kathmandu",
+    "phone": "01-4493683",
+    "description": "Tilganga Institute of Ophthalmology formerly called the Tilganga Eye Centre in Nepal is the implementing body of the Nepal Eye Program a non-profit community based non-government organization launched in 1992. The current facility was opened in 1994.",
+    "images": "TilgangaEyeHospital.jpg",
+    "website": "http://tilganga.org/"
+  },
+  {
+    "id": 13,
+    "name": "Dristi Eye Care Center",
+    "location": "Kathmandu",
+    "phone": "01-5224352",
+    "description": "Drishti Eye Care System was initiated and established by a group of experienced enthusiastic dedicated and devoted ophthalmic human resources with a mission to provide the most advanced sophisticated and comprehensive super specialty eye care services to the needy at an affordable price in different parts of Nepal.",
+    "images": "DristiEyeCenter.jpg",
+    "website": "https://www.drishtieye.org/"
+  },
+  {
+    "id": 14,
+    "name": "Geta Eye Hospital",
+    "location": "Attariya",
+    "phone": "977-91-575112",
+    "description": "Geta Eye Hospital was established with the financial support from NORAD Norway in 1981 and it became fully operational from November 1982. Right now It is one of the financially self-sustained hospital with appreciable patient care.",
+    "images": "GetaEyeHospital.jpg",
+    "website": "https://www.nnjs.org.np/shows/pag/geta-eye-hospital"
+  },
+  {
+    "id": 15,
+    "name": "National Trauma Center",
+    "location": "Kathmandu",
+    "phone": "01-4226933",
+    "description": "Understanding the need for quality Trauma care and Trauma relief centre in Nepal National Trauma Centre was established as the first and only Trauma Hospital of Nepal. It has provided its undivided attention and services to patients at the time of Massive Earthquake (2015) of Nepal.It is well prepared for mass causality of trauma victims.",
+    "images": "NationalTraumaCenter.jpg",
+    "website": "http://nationaltraumacenter.gov.np/"
+  },
+  {
+    "id": 16,
+    "name": "Nobel Medical College (Teaching Hospital private limited)",
+    "location": "Kathmandu",
+    "phone": "01-4441079",
+    "description": "Nobel Medical College Teaching Hospital (P) Ltd. an affiliated to Kathmandu University was founded in 2004. It is located in Biratnagar one of the major academic hubs of eastern part of Nepal. Its key objective is to impart international standard medical education to the meritorious students of Nepal and abroad enrolled for both medical and paramedical courses.",
+    "images": "NobelMedicalCollege.jpg",
+    "website": "http://www.nobelmedicalcollege.com.np/"
+  },
+  {
+    "id": 17,
+    "name": "Sahid Gangalal National Heart Center",
+    "location": "Kathmandu",
+    "phone": "01-4371322",
+    "description": "Shahid Gangalal National Heart Centre is a hospital which provides cardiac care diagnostic and treatment procedures in Kathmandu Nepal. The hospital is named after Gangalal Shrestha. It is the first cardiac tertiary center in Nepal.",
+    "images": "Gangalal.jpg",
+    "website": "https://www.sgnhc.org.np/"
+  },
+  {
+    "id": 18,
+    "name": "Vayodha Hospital",
+    "location": "Kathmandu",
+    "phone": "01-4286428",
+    "description": "Vayodhameans possessinggood health in Sanskrit! We believe every human being is an author of his/her own health and in this journey of life we would like to be your trusted companion. For us Patient Care supersedes all other aspects. We emphasize on quality care  round the clock! Where in symbol of Vayodha V symbolizes caring hands and the Green droplet symbolizes Life.",
+    "images": "Vayodha.jpg",
+    "website": "https://www.vayodhahospitals.com/"
+  },
+  {
+    "id": 19,
+    "name": "Human Organ Transplant Center",
+    "location": "Bhaktapur",
+    "phone": "01-6614709",
+    "description": "Shahid Dharmabhakta National transplant Center- SDNTC (Human Organ Transplant Center- HOTC) is situated at Dudhpati-17 Bhaktapur a beautiful and a serene place at the distance of 12 kilometers from Kathmandu. It was established in 2012 by the Ministry of Health to strengthen and expand organ transplantation services in the country.",
+    "images": "HumanOrgan.jpg",
+    "website": "https://hotc.org.np/"
+  },
+  {
+    "id": 20,
+    "name": "Dhulikhel Hospital",
+    "location": "Dhulikhel",
+    "phone": "011-490486",
+    "description": "Dhulikhel Hospital a Kathmandu University hospital is an independent not for profit non-government hospital in Dhulikhel Kavrepalanchok Nepal.",
+    "images": "DhulikhelHospital.jpg",
+    "website": "https://www.dhulikhelhospital.org/"
+  },
+  {
+    "id": 21,
+    "name": "Alka Hospital",
+    "location": "Lalitpur",
+    "phone": "01-5555555",
+    "description": "The history of private hospital in Nepal dates back to late 1980's .After the people's popular movement 1990 AD. There was mushrooming of private hospitals or nursing homes. Nearing to people popular movement 2062 BS (April 2006 AD) There was sprouting yet another hospital Called Alka Hospital in the heart of the lalitpur district .Question is : Is the hospital different from others ? Or why do people from valley need additional Hospital like this ?",
+    "images": "AlkaHospital.jpg",
+    "website": "http://www.alkahospital.com/"
+  },
+  {
+    "id": 22,
+    "name": "Grande International Hospital",
+    "location": "Kathmandu",
+    "phone": "01-5159266",
+    "description": "Grande International Hospital was created with the vision to fill an existing void in the Nepali healthcare industry. It is dedicated to the seamless delivery of quality patient-centric healthcarewhich means supplying everything a patient may need from acute critical care to rehabilitation to transitional care to home healthcare servicesat an affordable cost.",
+    "images": "GrandeHospital.jpg",
+    "website": "http://www.grandehospital.com/"
+  },
+  {
+    "id": 23,
+    "name": "T.U Teaching Hospital",
+    "location": "Kathmandu",
+    "phone": "01-4412302",
+    "description": "Tribhuvan University Teaching Hospital is a premier hospital in Nepal established in year 1982 with a 300 bed facility. At present with 700-bed facility this hospital is the site of teaching and research activities for Institute of Medicine (IOM).The Hospital is primarily a teaching and training hospital for the undergraduates (MBBS) the postgraduate (MD/MS/MDS) the super specialty students (DM/Mch Students) BDS research scholars B.Sc nursing & training of medical staffs.",
+    "images": "TeachingHospital.jpg",
+    "website": "http://www.iom.edu.np/"
+  },
+  {
+    "id": 24,
+    "name": "B.P Koirala Institute of Health Science",
+    "location": "Kathmandu",
+    "phone": "977-25-525555",
+    "description": "B.P. Koirala Institute of Health Sciences (BPKIHS) was established on Jan 18 1993 and subsequently upgraded as an autonomous Health Sciences University on Oct 28 1998 with a mandate to work towards developing socially responsible and competent health workforce providing health care & involving in innovative health research.",
+    "images": "BPHospital.jpg",
+    "website": "http://www.bpkihs.edu/"
+  },
+  {
+    "id": 25,
+    "name": "Chitwan Medical College Teaching Hospital",
+    "location": "Bharatpur",
+    "phone": "985-5055155",
+    "description": "Offer world class medical education.\nProvide patients centered quality healthcare services with state of art facilities.\nEnhance research culture in par with national and international contemporaries.\nBecome Nepals leading partnership in medical education.\nPromote self-sustainability of institution.",
+    "images": "CMCHospital.jpg",
+    "website": "http://www.cmc.edu.np/"
+  }
+]
